@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+datasets
+numpy
+pandas
+matplotlib
+seaborn

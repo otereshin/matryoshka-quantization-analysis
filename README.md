@@ -2,7 +2,7 @@
 
 This project contains the code and experiments for the Towards Data Science article, "Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction".
 
-**Read the full article here:** https://towardsdatascience.com/optimizing-vector-search-why-you-should-flatten-structured-data/
+**Read the full article here:** https://towardsdatascience.com/scaling-vector-search-comparing-quantization-and-matryoshka-embeddings-for-80-cost-reduction/
 
 ## Overview
 
